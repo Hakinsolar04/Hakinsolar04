@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hakinsolar04
-- 👀 I’m interested in learning ML 
-- 🌱 I’m currently learning cloud computing
+- 👀 I’m interested in learning ML and general coding
+- 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on ML basics for beginers like me
 - 📫 How to reach me through mail
 - Thank you
